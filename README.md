@@ -1,5 +1,6 @@
 # README
-
+# Tutorial Source:
+https://www.youtube.com/watch?v=VeUX3pWn28w
 # Omniauth FB Example
 
 ## Build out the basic application
